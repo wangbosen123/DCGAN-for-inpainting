@@ -7,4 +7,4 @@ DCGAN for image inpainting
 train_stage:
 ![未命名](https://user-images.githubusercontent.com/92494937/162913976-d44e11d7-0446-4075-a928-64e18342f7c1.png)
 
-model_weights based on 原始的gan 這邊沒有train的很好，所以後面做補圖沒有做得很好，weight 參考看看就好。
+model_weights 是預訓練的生成網絡 這邊沒有訓練的很好，所以後面做補圖沒有做得很好，weight 參考看看就好。
