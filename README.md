@@ -1,1 +1,1 @@
-#DCGAN for  inpint ing
+#DCGAN for inpinting
